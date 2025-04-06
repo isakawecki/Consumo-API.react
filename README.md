@@ -22,9 +22,6 @@ Este é um projeto web desenvolvido com **React.js** e **Axios**, que consome da
 - Axios
 - CSS
 
-## 🔗 API Utilizada
-
-https://disneyapi.dev
 
 ## 🚀 Como rodar o projeto
 
