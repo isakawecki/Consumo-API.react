@@ -9,17 +9,22 @@ Este é um projeto web desenvolvido com **React.js** e **Axios**, que consome da
 - Tratamento para personagens com muitos dados
 - Componentização e organização do código
 
-✅ Listagem de personagens com:
-- Nome  
-- Imagem  
-- Séries em que aparece  
-- Filmes em que aparece 
+## ✅ Listagem de personagens com:
+
+- Nome
+- Imagem
+- Séries em que aparece
+- Filmes em que aparece
 
 ## 🛠️ Tecnologias usadas
 
 - React.js
 - Axios
 - CSS
+
+## 🔗 API Utilizada
+
+https://disneyapi.dev
 
 ## 🚀 Como rodar o projeto
 
@@ -29,6 +34,3 @@ cd nome-da-pasta
 npm install
 npm start
 
-## 🔗 API Utilizada
-
-https://disneyapi.dev
