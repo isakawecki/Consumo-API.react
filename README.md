@@ -7,7 +7,6 @@ Este é um projeto web desenvolvido com **React.js** e **Axios**, que consome da
 - Barra de busca por nome
 - Estilo responsivo com cards
 - Tratamento para personagens com muitos dados
-- Componentização e organização do código
 
 ## ✅ Listagem de personagens com:
 
