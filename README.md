@@ -25,7 +25,7 @@ Este é um projeto web desenvolvido com **React.js** e **Axios**, que consome da
 ## 🚀 Como rodar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/isakawecki/Consumo-API.react.git
 cd nome-da-pasta
 npm install
 npm start
